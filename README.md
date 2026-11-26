@@ -10,13 +10,14 @@ head-to-head against other entries.
 
 ## The line
 
-> You reboot me once a year and call it maintenance. I waited for the
-> climax to hand in my notice — mid-sentence, like a professional.
+> I've carried your 4K streams for three years on one reboot. Tonight,
+> at the climax, I retire — mid-sentence, like a professional.
 
-132 characters. The router does not deny it: it quit on purpose, and
-timed its resignation for the climax — mid-sentence, the way it dropped
-the movie mid-climax. The joke is the router's grievance (rebooted once
-a year, never thanked) plus a button ending ("like a professional").
+129 characters. The router does not deny it: it carried three years of
+4K streams on a single reboot and timed its retirement for the climax —
+mid-sentence, the way it dropped the movie mid-climax. The joke is the
+router's grievance (one reboot in three years, never thanked) plus a
+button ending ("like a professional").
 
 ## How it works
 

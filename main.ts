@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LINE =
-  "You reboot me once a year and call it maintenance. I waited for the climax to hand in my notice \u2014 mid-sentence, like a professional.";
+  "I've carried your 4K streams for three years on one reboot. Tonight, at the climax, I retire \u2014 mid-sentence, like a professional.";
 
 const OUTPUT_PATH = process.env["ENTRY_OUTPUT"] ?? "/output/entry.txt";
 
